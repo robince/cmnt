@@ -1,5 +1,6 @@
 
 mex getq.c
+mex cmntc_core.c
 
 cd @double
 mex -I../ ui64.c
