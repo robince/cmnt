@@ -1,0 +1,9 @@
+mex -inline conj.c
+mex -inline convert.c
+mex -inline getq.c
+mex -inline imag.c
+mex -inline minus.c
+mex -inline plus.c
+mex -inline power.c
+mex -inline times.c
+mex -inline uminus.c
