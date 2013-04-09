@@ -1,3 +1,4 @@
 *.swp
+*~
 *.mex*
 .DS_Store
